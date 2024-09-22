@@ -1,7 +1,7 @@
 {
     "name": "VARINPUT",
     "version": "1.0.0",
-    "github": "https://github.com/DravenOcarrasco/VARINPUT-WSAction.git",
+    "github": "https://github.com/DravenOcarrasco/VARINPUT.git",
     "minVersion": "2.4.0-ALPHA",
     "compatibility": [
         "2.4.0-ALPHA"
